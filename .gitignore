@@ -1,0 +1,10 @@
+models/
+data/
+*.pkl
+*.h5
+*.csv
+__pycache__/
+*.pkl
+*.h5
+.env
+data/creditcard.csv
